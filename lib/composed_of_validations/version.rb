@@ -1,0 +1,3 @@
+module ComposedOfValidations
+  VERSION = "0.0.1"
+end
